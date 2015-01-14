@@ -1,5 +1,6 @@
 Programming Background
 -Favorite CS project for school: Game Hub
+-Current Job: Writing software for flight simulator at work 
 
 Gerald Gale
 CS290
